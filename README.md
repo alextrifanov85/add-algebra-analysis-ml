@@ -74,7 +74,6 @@
 
 - [Рекомендации обучающимся](methodical-guidelines/students/README.md);
 - [Рекомендации преподавателям по оцениванию](methodical-guidelines/teachers-assessment/README.md);
-- [Рекомендации преподавателям по использованию ресурсов](methodical-guidelines/teachers-resources/README.md).
 
 ## 6. Команда
 
